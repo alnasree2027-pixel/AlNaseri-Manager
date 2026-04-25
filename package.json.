@@ -1,0 +1,15 @@
+{
+  "name": "alnaseri-manager",
+  "version": "1.1.0",
+  "description": "WhatsApp Group Manager by Al-Naseri",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.19.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
